@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxjniwVxCGmZZuiH1tCLMXTgs+T2YOSbcOuLp74ui5hqewpC/i89/m/sT/thf8F7f9eh6oWZNtSADfqL2WC0CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Tumelo Stuff\\Tumelo Projects\\email_notification_api\\email_notification_api\\email_notification_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tumelo\\.nuget\\packages\\csharpfunctionalextensions\\2.21.1\\csharpfunctionalextensions.2.21.1.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tumelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
